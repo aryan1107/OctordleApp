@@ -1,4 +1,5 @@
 # Octordle App
+
 Privacy Policy
 
 This app is built the Wordle app as a Free app. This SERVICE is provided  at no cost and is intended for use as is.
